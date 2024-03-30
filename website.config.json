@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": " Smart Home System",
+        "description": " A simple smart home control system written in Java.",
+        "longDescription": " In this project, I realized a simulation of features such as measuring the electricity used in a smart home, light controls, and monitoring of camera security systems with object-oriented programming. I gained experience in writing clean and readable code and documentation, as well as concepts such as class structures and inheritance."
+    },
+    "tr":{
+        "title": "Akıllı Ev Sistemi",
+        "description": "Java ile yazılmış basit düzeyde bir akıllı ev kontrol sistemi. ",
+        "longDescription": "Bu projede akıllı bir evde bulunan kullanılan elektiriği ölçme, ışık kontrolleri ve kameralı güvenlik sistemlerinin takibi gibi özelliklerin nesne tabanlı programlama ile bir simülasyonunu gerçekleştirdim.Sınıf yapıları, kalıtım gibi konukarın yanı sıra temiz ve okunabilir bir kod yazma ve dökümantasyon hazırmalma hakkında da tecribe kazandım."
+    },
+    "tags":["consoleApp","oop","java"]
+}
