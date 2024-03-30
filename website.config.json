@@ -7,7 +7,7 @@
     "tr":{
         "title": "Akıllı Ev Sistemi",
         "description": "Java ile yazılmış basit düzeyde bir akıllı ev kontrol sistemi. ",
-        "longDescription": "Bu projede akıllı bir evde bulunan kullanılan elektiriği ölçme, ışık kontrolleri ve kameralı güvenlik sistemlerinin takibi gibi özelliklerin nesne tabanlı programlama ile bir simülasyonunu gerçekleştirdim.Sınıf yapıları, kalıtım gibi konukarın yanı sıra temiz ve okunabilir bir kod yazma ve dökümantasyon hazırmalma hakkında da tecribe kazandım."
+        "longDescription": "Bu projede akıllı bir evde bulunan kullanılan elektiriği ölçme, ışık kontrolleri ve kameralı güvenlik sistemlerinin takibi gibi özelliklerin nesne tabanlı programlama ile bir simülasyonunu gerçekleştirdim.Sınıf yapıları, kalıtım gibi konuların yanı sıra temiz ve okunabilir bir kod yazma ve dökümantasyon hazırmalma hakkında da tecribe kazandım."
     },
     "tags":["consoleApp","oop","java"]
 }
